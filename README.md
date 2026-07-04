@@ -1,8 +1,21 @@
-# Hi, I'm Aasiya 👋
+# Hi, I'm Aasiya Chauhan
 
-Cybersecurity Student | SOC Analyst (Aspiring) | Incident Response | Cloud Security
+Cybersecurity Student | SOC Analyst | Incident Response | Cloud Security  
+Seeking opportunities in SOC operations, incident response, and cloud security.
 
 ---
+
+## 💼 Work Experience
+
+### IT Security Analyst
+**Descartes Systems Group, Waterloo, ON**  
+
+- Monitor and triage alerts from SIEM, UEBA, EDR, and DLP security tools
+- Investigate phishing attempts, malware, and suspicious user/endpoint activity
+- Perform threat hunting and data risk investigations across cloud and on-prem environments
+- Support incident response workflows and document security findings
+- Assist in improving detection rules and reducing false positives in SOC monitoring
+- May 2025 – Present
 
 ## 🎓 Education
 **Honours Bachelor of Information Sciences (Cyber Security)**  
@@ -25,9 +38,9 @@ Jan 2023 – Aug 2026
 Jan 2026 – Present  
 https://github.com/Sheridan-Group8/AI-Based-Phishing-Detection-System-with-URL-Analysis
 
-- Developing an AI-driven phishing detection solution using Microsoft Graph API to analyze enterprise email data
-- Applied machine learning to automate phishing triage and improve detection of malicious emails
-- Designed a scalable proof-of-concept for SOC-style investigation workflows and alert enrichment
+- Built an AI-powered phishing detection system using Microsoft Graph API for email analysis
+- Applied machine learning to classify and prioritize suspicious emails for SOC workflows
+- Designed a proof-of-concept for alert enrichment and automated investigation support
 
 ---
 
