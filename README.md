@@ -42,6 +42,11 @@ https://github.com/Sheridan-Group8/AI-Based-Phishing-Detection-System-with-URL-A
 - Applied machine learning to classify and prioritize suspicious emails for SOC workflows
 - Designed a proof-of-concept for alert enrichment and automated investigation support
 
+### IOC-Scanner
+July 2026 - Present 
+https://github.com/Aasiyachauhan/IOC-Scanner
+
+- A Python-based cybersecurity automation tool that analyzes Indicators of Compromise (IOCs) such as IP addresses, URLs, domains, and file hashes. The project integrates with VirusTotal API to perform threat intelligence lookups, classify security risks, and store scan results for investigation and reporting.
 ---
 
 
