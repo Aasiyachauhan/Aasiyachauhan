@@ -1,6 +1,7 @@
 # Hi, I'm Aasiya Chauhan
 
 **Cybersecurity Graduate | SOC Analyst**
+
 Seeking opportunities in SOC operations, incident response, and cloud security.
 
 ## Education
@@ -28,12 +29,7 @@ Sheridan College (2023–2026)
   Python tool for analyzing IPs, URLs, domains, and file hashes using VirusTotal.
   https://github.com/Aasiyachauhan/IOC-Scanner
 
-## Skills
-**Security:** SIEM • EDR • UEBA • Incident Response • Threat Intelligence  
-**Cloud:** Azure • AWS • OCI  
-**Programming:** Python • Bash • PowerShell
-
-## 🛠️ Technical Skills 
+## Technical Skills 
 
 ### Security & Operations 
 - SIEM, UEBA, EDR, DLP
@@ -60,7 +56,6 @@ Sheridan College (2023–2026)
 - Linux (Kali, Ubuntu) 
 - Windows 10/11
 - Windows Server
----
 
 ## Focus Areas 
 - SOC Operations
